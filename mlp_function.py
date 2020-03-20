@@ -1,6 +1,6 @@
 import tensorflow as tf
 
-from checkpoint_tensorboard import tensorboard
+from checkpoint import tensorboard
 from data_loader import MNISTLoader
 import numpy as np
 
